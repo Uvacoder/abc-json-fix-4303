@@ -1,5 +1,5 @@
 {
-  "name": "repair-json",
+  "name": "repair-dotjson",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
