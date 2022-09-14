@@ -1,5 +1,5 @@
 [![vercel](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)](https://vercel.com/?utm_source=restfire-studio&utm_campaign=oss)
----
+-----
 # Repair JSON
 
 Fixing the shitty JSON string from logs or etc. Already run and deployed at Vercel http://repair-json.vercel.app/
